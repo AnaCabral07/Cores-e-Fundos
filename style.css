@@ -1,7 +1,74 @@
-.body {
-    background-color: rgb(78, 78, 78);
+body {
+    background-color: rgb(40,42,54,255);
+    text-align: center;
+    background-image: url(https://img.freepik.com/fotos-gratis/ceu-estrelado_1048-11828.jpg);
 }
 
-.p {
-    color: blue;
+p {
+    color: rgb(255, 255, 255);
 }
+
+.cortitulo {
+    color: rgb(254,178,109,255);
+}
+
+.quadrado {
+    border: 10px solid rgb(68,71,90,255); 
+    padding: 20px; 
+    width: 750px;
+    height: 410px; 
+    display: inline-block; 
+    background-color: rgb(68,71,90,255);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+
+.quadrado2 {
+    border: 10px solid rgb(68,71,90,255); 
+    padding: 20px; 
+    width: 750px;
+    height: 250px; 
+    display: inline-block; 
+    background-color: rgb(68,71,90,255);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.quadrado3 {
+    border: 10px solid rgb(68,71,90,255); 
+    padding: 20px; 
+    width: 900px;
+    height: 450px; 
+    /* display: inline-block;  */
+    background-color: rgb(68,71,90,255);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    /* margin-bottom: 20px; */
+    margin: 10px auto 20px;
+}
+
+.quadrado4 {
+    border: 10px solid rgb(68,71,90,255); 
+    padding: 20px; 
+    width: 750px;
+    height: 420px; 
+    display: inline-block; 
+    background-color: rgb(68,71,90,255);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.quadradolista {
+    border: 10px solid rgb(68,71,90,255); 
+    padding: 20px; 
+    width: 750px;
+    height: 250px; 
+    display: inline-block; 
+    background-color: rgb(68,71,90,255);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+  h1 {
+    margin: 0; /* Remove a margem padrão do título */
+  }
